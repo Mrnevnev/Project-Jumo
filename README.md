@@ -1,2 +1,2 @@
 # Project-Jumo
-Platformer/Shooter
+A test game
