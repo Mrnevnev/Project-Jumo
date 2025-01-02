@@ -1,2 +1,2 @@
-# Big-Jump
-Platformer
+# Project-Jumo
+Platformer/Shooter
